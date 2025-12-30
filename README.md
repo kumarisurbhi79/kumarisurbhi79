@@ -18,11 +18,15 @@ I enjoy building responsive websites and interactive web applications while cont
 🎓 Education
 
 Diploma in Software Development
+
 📍 NavGurukul, Kishanganj
+
 🗓️ 2025 – Present
 
 Bachelor of Science (B.Sc)
+
 📍 Lalit Narayan Mithila University, Darbhanga
+
 🗓️ 2024 – Present
 
 
