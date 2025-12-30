@@ -8,8 +8,11 @@ I enjoy building responsive websites and interactive web applications while cont
 🌱 About Me
 
 🎯 Passionate about web development & UI design
+
 🧠 Strong basics in frontend technologies
+
 🚀 Eager to work on real-world projects
+
 📚 Currently learning & growing at NavGurukul
 
 
