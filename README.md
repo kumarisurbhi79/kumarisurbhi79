@@ -18,6 +18,7 @@ Motivated Web Developer with a strong foundation in **HTML, CSS, JavaScript, and
 🗓️ 2025 – Present  
 
 **Bachelor of Science (B.Sc)** 
+
 📍 Lalit Narayan Mithila University, Darbhanga  
 🗓️ 2024 – Present
 
