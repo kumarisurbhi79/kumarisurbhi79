@@ -13,7 +13,8 @@ Motivated Web Developer with a strong foundation in **HTML, CSS, JavaScript, and
 
 ## 🎓 Education
 
-**Diploma in Software Development**  
+**Diploma in Software Development**
+
 📍 NavGurukul, Kishanganj  
 🗓️ 2025 – Present  
 
