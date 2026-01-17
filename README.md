@@ -17,10 +17,10 @@ Motivated Web Developer with a strong foundation in **HTML, CSS, JavaScript, and
 📍 NavGurukul, Kishanganj  
 🗓️ 2025 – Present  
 
-**Bachelor of Science (B.Sc)**  
+**Bachelor of Science (B.Sc)** 
 📍 Lalit Narayan Mithila University, Darbhanga  
 🗓️ 2024 – Present
----
+
 
 ## 🛠️ Technical Skills
 
